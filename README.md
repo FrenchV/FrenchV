@@ -11,11 +11,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a AI chatbot**
+ 🔭 I’m currently working on a**Web app**
  
- 🌱 I’m currently learning **AI, cloud and game dev**
+ 🌱 I’m currently learning **AI, cloud and web devolopment**
 
-💬 Ask me about **C++, python... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **C++, lua or anything AI**
 
  </div>
  
