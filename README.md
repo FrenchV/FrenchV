@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a**Web app**
+ 🔭 I’m currently working on a **Web app**
  
  🌱 I’m currently learning **AI, cloud and web devolopment**
 
